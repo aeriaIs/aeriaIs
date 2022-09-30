@@ -4,15 +4,15 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on web3
-- 💬 Ask me about my passion
+- 🌱 I’m currently learning React JS, React Native, Node JS, Web3, Laravel
+- 👯 I’m looking to collaborate on React JS, React Native, Node JS, Web3
 - 📫 How to reach me: Ig: yudho.alfantyo
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=aeriaIs&theme=blood&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![aerials's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeriaIs)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeriaIs&layout=compact&theme=vision-friendly-dark)](https://github.com/aeriaIs/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeriaIs&layout=compact&theme=vue)](https://github.com/aeriaIs/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools :
 
