@@ -15,7 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeriaIs&layout=compact&theme=vue)](https://github.com/aeriaIs?tab=repositories)
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
 [![JavaScript]](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 [Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 [React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -33,5 +32,3 @@
 [Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 [GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 [GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
-</div>
