@@ -8,14 +8,8 @@
 - 👯 I’m looking to collaborate on React JS, React Native, Node JS, Web3
 - 📫 How to reach me: Ig: yudho.alfantyo
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=aeriaIs&theme=blood&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/aeriaIs)
-[![aerials's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeriaIs)](https://github.com/aeriaIs)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeriaIs&layout=compact&theme=vue)](https://github.com/aeriaIs?tab=repositories)
-### :hammer_and_wrench: Languages and Tools :
-
-![JavaScript]
+## Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
@@ -32,3 +26,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=aeriaIs&theme=blood&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/aeriaIs)
+[![aerials's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeriaIs)](https://github.com/aeriaIs)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeriaIs&layout=compact&theme=vue)](https://github.com/aeriaIs?tab=repositories)
+### :hammer_and_wrench: Languages and Tools :
