@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning React JS, React Native, Node JS, Web3, Laravel
 - 👯 I’m looking to collaborate on React JS, React Native, Node JS, Web3
 - 📫 How to reach me: Ig: yudho.alfantyo
-
-## Skills
+- 
+### :hammer_and_wrench: Skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -33,4 +33,3 @@
 [![aerials's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeriaIs)](https://github.com/aeriaIs)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeriaIs&layout=compact&theme=vue)](https://github.com/aeriaIs?tab=repositories)
-### :hammer_and_wrench: Languages and Tools :
