@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning React JS, React Native, Node JS, Web3, Laravel
-- 👯 I’m looking to collaborate on React JS, React Native, Node JS, Web3
-- 📫 How to reach me: Ig: yudho.alfantyo
+- 🌱 I’m currently learning React JS, Next JS, React Native, Node JS, Web3, Electron JS, Typescript
+- 👯 I’m looking to collaborate on React JS, Next JS, React Native, Node JS, Web3, Typescript
+- 📫 How to reach me: Ig: yudho_aerials
 - 
 ### :hammer_and_wrench: Skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
